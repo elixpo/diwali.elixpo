@@ -1,0 +1,18 @@
+# The Light Within
+
+> An interactive, cinematic 3D Diwali experience at https://diwali.elixpo.com, created by Arya Bhagat and featured by Elixpo.
+
+Visitors light a clay diya in a midnight courtyard, watch a procedural rangoli bloom and hundreds of lamps rise, set off fireworks, and write a Diwali blessing card that can be shared as a link.
+
+## Modes
+
+- Explore: orbit the courtyard and the hero diya.
+- Illuminate: light the diya and expand its glow.
+- Celebrate: launch aerial shells and ground fireworks (anar, chakri, phuljhadi).
+- Blessings: create a calligraphy greeting card; share it with ?to=, ?from= and ?msg= parameters.
+
+## Links
+
+- Source: https://github.com/elixpo/diwali.elixpo
+- Original repository: https://github.com/Aryaaa-21/Diya
+- Elixpo: https://elixpo.com
