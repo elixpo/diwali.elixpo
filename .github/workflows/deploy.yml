@@ -1,0 +1,25 @@
+# Deploys diwali.elixpo.com (Vite static build) through the shared Elixpo deploy workflow.
+# The Pages project is created on the first run; attach diwali.elixpo.com to it in Cloudflare.
+
+name: Deploy
+
+on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - "**/*.md"
+      - LICENSE
+      - LICENSES/**
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+
+jobs:
+  pages:
+    uses: elixpo/agent.elixpo/.github/workflows/deploy-cloudflare-pages.yml@main
+    with:
+      project-name: diwali-elixpo
+      build-command: npm run build
+      output-directory: dist
+    secrets: inherit
