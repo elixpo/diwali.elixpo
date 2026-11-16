@@ -1,0 +1,40 @@
+NOTICE - the Elixpo notice board
+================================
+
+This repository is licensed under the Elixpo License (see ../LICENSE). This
+NOTICE file is the "notice board": it records reservations and product-specific
+terms that sit ON TOP of the base license for this repository. Read it together
+with LICENSE and LICENSES/exceptions/Oreo-trademarks.
+
+REPOSITORY
+----------
+
+  Name:        diwali.elixpo (diwali.elixpo.com)
+  What it is:  The Light Within - an interactive, cinematic digital Diwali
+               experience. Light a diya, watch the courtyard bloom, set off
+               fireworks, and send a blessing card to someone.
+
+ORIGINAL AUTHOR
+---------------
+
+  The Light Within was created by Arya Bhagat (https://github.com/Aryaaa-21)
+  in https://github.com/Aryaaa-21/Diya and is featured by Elixpo with the
+  author's agreement. Its complete commit history is preserved in this
+  repository, and Arya Bhagat remains the copyright holder of the original
+  work, which is provided under the MIT License.
+
+EXCLUSIVE ARTIFACTS IN THIS REPOSITORY
+--------------------------------------
+
+  None. This repository does not publish an npm package, a marketplace
+  extension, or a separately-licensed binary. diwali.elixpo.com is an official
+  hosted deployment; the source is MIT.
+
+BRAND
+-----
+
+  The Elixpo and Oreo names, the mascot, and the *.elixpo.com identifiers
+  remain reserved (see LICENSES/exceptions/Oreo-trademarks). "The Light Within"
+  is the original author's title for this work.
+
+Contact: hello@elixpo.com
